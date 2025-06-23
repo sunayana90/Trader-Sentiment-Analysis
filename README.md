@@ -40,20 +40,7 @@ This project analyzes the relationship between **Bitcoin market sentiment** (Fea
 - 😱 **Fear** days saw **extremely high trade volumes** (`$704M+`), indicating emotional decision-making and volatility.
 - 📉 **Neutral** and **Extreme Greed** days had lower activity and lower returns.
 - 💡 Emotional market states like **Fear** and **Greed** drive significant shifts in trader behavior.
-
----
-
-## 📁 Folder Structure
-trader-sentiment-analysis/
-│
-├── charts/
-│ ├── pnl_by_sentiment.png
-│ └── volume_by_sentiment.png
-│
-├── trader_sentiment_analysis.ipynb
-├── README.md
-└── requirements.txt
-
+  
 ---
 
 ## 🚀 How to Run
